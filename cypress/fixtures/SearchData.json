@@ -1,0 +1,16 @@
+{
+  "Agents": {
+    "MichaelReid": "Michael Reid"
+  },
+  "Cities": {
+    "Austin": "Austin, TX"
+  },
+  "Schools": {
+    "SealyIndependent": "Sealy Independent"
+  },
+  "AutosuggestSections": {
+    "Cities": "Cities",
+    "SchoolDistricts": "School Districts",
+    "Agents": "Agents"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "BuyingTab": {
+    "TabTitle": "Buying Intro",
+    "TabDescription": "Congratulations on beginning the buying process! Consider this your go-to guide. Connect with a Keller Williams agent to get the most out of this guide with valuable insights at every step."
+  },
+  "SellingTab": {
+    "TabTitle": "Selling Intro",
+    "TabDescription": "Congratulations on beginning the selling process! Consider this your go-to guide, with insights provided by your agent along the way."
+  },
+  "UnAuth": {
+    "SellingTab": {
+      "TabTitle": "Selling Your Home",
+      "TabDescription": "You're ready to sell your property. And, while you're looking forward to seeing the word \"SOLD\" posted from the curb, you know there's a lot to consider along the way. One of your first decisions is to select a real estate company and real estate agent who'll join you in the process."
+    },
+    "BuyingTab": {
+      "TabTitle": "Home Buying Tips from Keller Williams",
+      "TabDescription": "In our experience, a house is not a dream home because of its size or color. It's about how you feel when you walk through the front door - the way you can instantly see your life unfolding there. This about more than real estate. It's about your life and your dreams."
+    }
+  }
+}

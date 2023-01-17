@@ -1,0 +1,9 @@
+*.iml
+.idea
+/node_modules/
+/allure-report/
+/allure-results/
+/cypress/screenshots/
+/cypress/videos/
+/cypress/results/
+/cypress/files/
